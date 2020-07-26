@@ -1,9 +1,7 @@
 <template>
-  <v-app>
-    <v-main>
-      <router-view />
-    </v-main>
-  </v-app>
+  <div class="main-about-announce">
+    About Announce
+  </div>
 </template>
 
 <script>
